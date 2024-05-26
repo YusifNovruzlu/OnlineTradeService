@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS onlinetrade;
+CREATE DATABASE IF NOT EXISTS onlinetrade;
